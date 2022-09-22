@@ -1,0 +1,15 @@
+{
+  "CONTRACT_ADDRESS": "0x044260940041923cb5484b04027A38Db170d7F49",
+  "SCAN_LINK": "https://explorer.apothem.network/address/xdc044260940041923cb5484b04027a38db170d7f49#transactions",
+  "NETWORK": {
+    "NAME": "XDC Apothem Network",
+    "SYMBOL": "TXDC",
+    "ID": 51
+  },
+  "NFT_NAME": "DogeXDC",
+  "SYMBOL": "DXC",
+  "MAX_SUPPLY": 200,
+  "WEI_COST": 4000000000000000000,
+  "DISPLAY_COST": 4,
+  "GAS_LIMIT": 285000
+}
